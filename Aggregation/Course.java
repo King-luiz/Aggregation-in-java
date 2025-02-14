@@ -30,8 +30,9 @@ public class Course {
         return this.unitTitle;
     }
 
-    // toString method to print unit details
+    // toString method 
     public String toString() {
         return "UNIT CODE: " + unitCode + "\nUNIT TITLE: " + unitTitle;
     }
+//codedbyluiz 
 }
